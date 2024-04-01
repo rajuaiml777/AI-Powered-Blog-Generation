@@ -26,7 +26,13 @@ Blogify is an application that harnesses the power of artificial intelligence, s
 
 3. Download the LLama2 model:
 
-    The LLama2 model used for AI blog generation needs to be downloaded separately. Please refer to the documentation or contact the project maintainers for instructions on obtaining and configuring the LLama2 model.
+    The LLama2 model used for AI blog generation can be downloaded from Hugging Face. You can download it using the following command:
+
+    ```bash
+    wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+    ```
+
+    Alternatively, you can visit the [Hugging Face model page](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) to manually download the model file.
 
 4. Run the application:
 
