@@ -42,6 +42,7 @@ Blogify is an application that harnesses the power of artificial intelligence, s
 4. Choose the job profile for which you want to generate the blog post from the dropdown menu.
 5. Click on the "Generate" button to generate the blog post.
 6. View the generated blog post displayed on the screen.
+   
 ![Screenshot]([screenshot.png](https://github.com/rajuaiml777/AI-Powered-Blog-Generation/blob/main/models/Picture1.png))
 
 ## Contributing
